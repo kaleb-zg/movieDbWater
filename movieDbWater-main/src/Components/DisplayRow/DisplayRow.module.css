@@ -1,0 +1,3 @@
+
+.mainWrapper { padding: 0 2% 24px; background-color: #000; width: 100%; overflow: hidden; }
+@media (max-width: 560px) { .mainWrapper { padding: 0 3% 20px; } }
